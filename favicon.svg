@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <circle cx="20" cy="20" r="19" stroke="#9a7b4f" stroke-width="2"/>
+  <circle cx="20" cy="20" r="15" stroke="#9a7b4f" stroke-width="1.5" opacity="0.4"/>
+  <!-- Hanger shape -->
+  <path d="M20 10 L20 14" stroke="#9a7b4f" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="20" cy="9" r="1.5" stroke="#9a7b4f" stroke-width="2" fill="none"/>
+  <path d="M14 24 L20 16 L26 24" stroke="#9a7b4f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <line x1="14" y1="24" x2="26" y2="24" stroke="#9a7b4f" stroke-width="2" stroke-linecap="round"/>
+  <!-- Dress silhouette below -->
+  <path d="M15 24 L13 32 L27 32 L25 24" stroke="#9a7b4f" stroke-width="1.5" fill="none" opacity="0.5"/>
+</svg>
